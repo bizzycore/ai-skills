@@ -1,0 +1,3 @@
+[submodule "avoid-ai-writing-source"]
+	path = third-party/avoid-ai-writing-source
+	url = https://github.com/conorbronsdon/avoid-ai-writing.git
