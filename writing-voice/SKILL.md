@@ -1,25 +1,25 @@
 ---
 name: writing-voice
-description: Draft or edit writing Chris will send so it preserves his direct, human, commercially aware voice without generic AI, recruiter, or LinkedIn language.
+description: Draft or edit sendable writing while preserving the author's actual voice and removing generic AI, recruiter, and social-media template language.
 ---
 
 # Writing Voice
 
 ## When to use
 
-Use for messages, outreach, applications, professional notes, and rewrites written in Chris's voice.
+Use for messages, outreach, applications, professional notes, and rewrites that should sound like the person sending them.
 
 ## Required inputs
 
 - The source text or requested message and its recipient or context.
-- Any facts, constraints, or tone cues Chris supplied.
+- Any facts, constraints, tone cues, or writing samples the author supplied.
 
 ## Workflow
 
 1. Preserve the original meaning, judgment, and useful specificity.
 2. Use plain language, varied sentence length, and natural spoken rhythm.
 3. Keep humor or self-awareness only when it genuinely fits the situation.
-4. Run a final test: would Chris actually send this to this person? Simplify if not.
+4. Run a final test: would this person actually send this to this recipient? Simplify if not.
 
 ## Guardrails
 
@@ -30,4 +30,4 @@ Use for messages, outreach, applications, professional notes, and rewrites writt
 
 ## Output expectations
 
-Return one sendable version unless Chris requests options or commentary. Keep it as short as the situation allows.
+Return one sendable version unless the user requests options or commentary. Keep it as short as the situation allows.

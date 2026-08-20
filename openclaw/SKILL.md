@@ -1,13 +1,13 @@
 ---
 name: openclaw
-description: Operate and troubleshoot Chris's OpenClaw workspace safely, with PM2 as the sole process manager and special care around duplicate runtimes and secrets.
+description: Operate and troubleshoot an OpenClaw workspace safely, with PM2 as the sole process manager and special care around duplicate runtimes and secrets.
 ---
 
 # OpenClaw
 
 ## When to use
 
-Use for OpenClaw setup, status checks, logs, configuration, updates, runtime problems, and local development in `/Users/chriscarpenter/openclaw`.
+Use for OpenClaw setup, status checks, logs, configuration, updates, runtime problems, and local development.
 
 ## Required inputs
 

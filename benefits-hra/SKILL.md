@@ -1,6 +1,6 @@
 ---
 name: benefits-hra
-description: Analyze benefits, HRA, and unemployment questions using Chris's local workspace as the source of truth while keeping sensitive information out of shared systems.
+description: Analyze benefits, HRA, and unemployment questions using the user's local records as the source of truth while keeping sensitive information out of shared systems.
 ---
 
 # Benefits, HRA, and Unemployment
@@ -11,7 +11,7 @@ Use for benefit eligibility, claim status, reimbursement steps, deadlines, forms
 
 ## Required inputs
 
-- Relevant files from `/Users/chriscarpenter/Library/CloudStorage/Dropbox/Unemployment:HRA/`.
+- Relevant local notices, forms, correspondence, and records supplied by the user.
 - The specific question, notice, deadline, or requested action.
 
 ## Workflow

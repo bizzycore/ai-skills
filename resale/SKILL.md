@@ -12,7 +12,7 @@ Use for sorting inventory, identifying items, pricing, listing creation, batch p
 ## Required inputs
 
 - Clear photos and any visible labels, identifiers, dimensions, or condition notes.
-- The selling platform, location, and known acquisition cost when relevant.
+- The selling platform, market, and known acquisition cost when relevant.
 
 ## Workflow
 
